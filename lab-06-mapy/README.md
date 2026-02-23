@@ -12,7 +12,8 @@ zapisu malejąco i wypisać.
 1. Google: nazwiska polskie site:gov.pl
 2. Ściągnąć plik CSV (comma-separated values)
 3. Można w nim poszukać nazwisk swoich i znajomych :-)
-4. Otworzyć plik CSV w edytorze i pozamieniać na małe litery: Ą -> a, Ć -> c, Ę -> e, Ł -> l, Ń -> n, Ó -> o, Ś -> s, Ź -> ź, Ż -> ż Chodzi o to, żeby odróżniać o kreskowane (małe o) od dużego O itp. Zapisać plik :-)
+4. Otworzyć plik CSV w edytorze i pozamieniać na małe litery: Ą -> a, Ć -> c, Ę -> e, Ł -> l, Ń -> n, Ó -> o, Ś -> s, Ź -> x, Ż -> z
+Chodzi o to, żeby odróżniać o kreskowane (małe o) od dużego O itp. Zapisać plik :-)
 
 Sposób rozwiązania:
 <!-- end list -->
