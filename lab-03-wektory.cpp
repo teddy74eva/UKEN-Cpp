@@ -30,10 +30,10 @@ int main ()
 	/* 6. Proszę wypisać wektory «parzyste» i «nieparzyste». */
 
 
-	/* 7. Proszę zanegować liczby w wektorze «nieparzyste». Proszę skorzystać z zakresowej pętli for, ...  */
+	/* 7. Proszę zanegować liczby (zmienic ich znak na przeciwny) w wektorze «nieparzyste». Proszę skorzystać z zakresowej pętli for, ...  */
 
 
-	/* ... i proszę wypisać «nieparzyste».  */ 		
+	/* ... i proszę wypisać «nieparzyste».  */
 
 
 	/* 8. Proszę znaleźć maksimum w wektorze «parzyste». */
@@ -47,7 +47,7 @@ int main ()
 
 	/* 11. Proszę wyczyścić wektory «nieparzyste» i «parzyste». */
 
-	/* 12. Proszę dodać do «nieparzystych» kolejne rosnące liczby nieparzystych (od 1), a do «parzystych» kolejne rosnące liczby parzystej. Oba wektory powinny liczyć po n liczb. */
+	/* 12. Proszę dodać do «nieparzystych» kolejne rosnące liczby nieparzyste (od 1), a do «parzystych» kolejne rosnące liczby parzyste. Oba wektory powinny liczyć po n liczb. */
 
 
 	/* ... proszę wypisać oba wektory ...  */
@@ -64,7 +64,7 @@ int main ()
    
 	std::vector<int> A, B;
 
-	/* .... proszę przemożyć każdą wartość w B przed 2 ...  */
+	/* .... proszę przemożyć każdą wartość w B przez 2 ...  */
 
 
 	/* ... sortujemy oba wektory ...  */
@@ -82,10 +82,9 @@ int main ()
 	
 	/* 15. Proszę usunąć zawartość wektorów A i B, a następnie wypełnić je n wartościami losowymi. */
         
-        /* ... proszę stworzyc wektor I będący przecięciem wektorów A i B. */
+        /* ... proszę stworzyc wektor I będący przecięciem wektorów A i B. Do przeciecia naleza te elementy wektora A, ktore naleza tez do wektora B. */
         
         /* ... wypiszemy A, B i I. */
-
 	
 
    return 0;

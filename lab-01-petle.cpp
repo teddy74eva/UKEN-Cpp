@@ -62,6 +62,11 @@ int main ()
    // Prosze napisac fragment kodu, ktory rysuje szachownice zbudowana 
    // z czterech cwierci (jednakowej wysokosci i szerokosci z dokladnoscia
    // do jednego znaku).
+   // Przyklad:
+   //    XXX..
+   //    XXX..
+   //    ...XX
+   //    ...XX
 
 
 

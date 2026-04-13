@@ -49,14 +49,14 @@ int main ()
 // 	
 // 	////////////////////////////////////////////
 // 	// 4. 
-// 	// Funkcja zwraca wartosc srednia z wektora.
+// 	// Funkcja zwraca wartosc srednia liczb w wektorze.
 // 	auto srednia_z_wektora = srednia(wektor);
 // 	
 // 	std::cout << "srednia wektora: " << srednia_z_wektora << std::endl;
 // 	
 // 	////////////////////////////////////////////
 // 	// 5. 
-// 	// Funkcja zwraca odchylenie standardowe z wektora.
+// 	// Funkcja zwraca odchylenie standardowe liczb w wektorze.
 // 	auto odchylenie_z_wektora = odchylenie(wektor);
 // 	
 // 	std::cout << "odchylenie wektora: " << odchylenie_z_wektora << std::endl;
